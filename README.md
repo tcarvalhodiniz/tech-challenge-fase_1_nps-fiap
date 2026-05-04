@@ -2,7 +2,7 @@
 > **Pós-Graduação em AI Scientist - FIAP**
 
 ## Visão Geral
-Este projeto faz parte do Tech Challenge da Fase 1 e tem como objetivo transformar dados operacionais em insights estratégicos. O foco principal é entender os impactos ea d satisfação do cliente (NPS) e propor soluções baseadas em dados para melhorar a experiência do consumidor.
+Este projeto faz parte do Tech Challenge da Fase 1 e tem como objetivo transformar dados operacionais em insights estratégicos. O foco principal é entender os impactos da satisfação do cliente (NPS) e propor soluções baseadas em dados para melhorar a experiência do consumidor.
 
 ## Entendimento do Negócio
 Hoje, o NPS é coletado apenas **após o encerramento da jornada de compra**. Quando a 
@@ -60,7 +60,7 @@ tech-challenge/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/tcarvalhodiniz/tech-challenge.git
+git clone git clone https://github.com/tcarvalhodiniz/tech-challenge-fase_1_nps-fiap.git
 cd tech-challenge
 ```
 
